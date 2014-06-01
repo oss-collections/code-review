@@ -1,0 +1,6 @@
+[submodule "gerrit"]
+	path = gerrit
+	url = https://gerrit.googlesource.com/gerrit
+[submodule "phabricator"]
+	path = phabricator
+	url = https://github.com/facebook/phabricator.git
